@@ -15,3 +15,5 @@ https://github.com/FlipperPA/midi-writer
 BSD-3-Clause license:
 Copyright (c) Timothy Allen, Mark Conway Wirt, and individual contributors.
 All rights reserved.
+
+(all code in 3rd party folder not follow this project license, they have their own license)
