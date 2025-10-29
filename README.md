@@ -15,7 +15,7 @@ https://github.com/wayne931121/image-to-midi/blob/main/manual%20midi.ipynb
 <img src="https://raw.githubusercontent.com/wayne931121/image-to-midi/refs/heads/main/result/Screenshot%20(666).png">
 
 ## Note
-You can also insert the code
+You can also insert the code when image to midi
 ```py
 import random
 for i in range(track):
