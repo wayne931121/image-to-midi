@@ -7,6 +7,14 @@ https://github.com/wayne931121/image-to-midi/blob/main/image_to_midi.ipynb
 # Result
 <img src="https://raw.githubusercontent.com/wayne931121/image-to-midi/refs/heads/main/result/Screenshot%20(666).png">
 
+## Note
+You can also insert the code
+```py
+import random
+for i in range(track):
+    MyMIDI.add_tempo(i, random.randint(1,100), random.randint(1,200))
+```
+
 # 3rd party tools
 midi-writer
 
