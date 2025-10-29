@@ -1,8 +1,12 @@
 # image-to-midi
 image to midi using python
 
-# Demo (colab)
+# Demo 
+## image to midi (colab)
 https://github.com/wayne931121/image-to-midi/blob/main/image_to_midi.ipynb
+
+## random (windows)
+https://github.com/wayne931121/image-to-midi/blob/main/random%20midi.ipynb
 
 # Result
 <img src="https://raw.githubusercontent.com/wayne931121/image-to-midi/refs/heads/main/result/Screenshot%20(666).png">
